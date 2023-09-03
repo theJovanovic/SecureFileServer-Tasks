@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SS43KyzKtVT/xPLEUdxQCg1bknk+Ica5GCYJXbzTxMbSacmI2m5ZFaW/PWbKszXwmfvoD1POsL6fkm5bdkt0LQ==",
+  "dgSpecHash": "RMLDL8zagjFlm+nVy+shnxiDXVVqod2Dzqb1AOrsCWmaxT73VNIBX1IDDsQ1ryOxD1NBvIamPefHgLqlFzVV/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Workspace\\VisualStudio\\SysProgLab1\\SysProgLab1.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",

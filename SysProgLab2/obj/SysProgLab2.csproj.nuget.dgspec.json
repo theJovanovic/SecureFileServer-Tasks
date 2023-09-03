@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab1.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab1.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab1.csproj",
-        "projectName": "SysProgLab1",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab1.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab2.csproj",
+        "projectName": "SysProgLab2",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\SysProgLab2.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\LENOVO\\Desktop\\SysProgLab2\\SysProgLab2\\obj\\",
         "projectStyle": "PackageReference",
